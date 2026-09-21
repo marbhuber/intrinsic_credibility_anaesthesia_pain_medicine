@@ -1,1 +1,1 @@
-This repository provides the R code the manuscript "Intrinsic credibility of statistically significant outcomes in Anaesthesia and Pain Medicine trials" submitted to the British Journal fof Anaestehsia
+This repository provides the R code the manuscript "Intrinsic credibility of statistically significant outcomes in Anaesthesia and Pain Medicine trials" submitted to the British Journal of Anaesthesia
